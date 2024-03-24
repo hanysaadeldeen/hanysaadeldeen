@@ -23,7 +23,8 @@ I also study computer science at university. I love this department because it t
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
-  
+
+    
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
