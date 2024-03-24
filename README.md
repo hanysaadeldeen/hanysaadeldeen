@@ -11,6 +11,6 @@
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="React" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="Redux " width="80" height="50"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="Redux " width="60" height="40"/>&nbsp;
 
 </div>
