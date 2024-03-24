@@ -1,17 +1,17 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Hany</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
+   <h1>Hi there, I'm <a href="https://hemant.codes">Hany </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
    <a href="https://www.linkedin.com/in/hany-saad-eldean-1b616625a/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" title="linkedIn" alt="linkedIn" width="40" height="40"/> 
    </a>
 </div>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hany Mohamed | 💻 Frond-End Developer | 🛸 Egypt , damietta <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hany Mohamed | 💻 Frond-End Developer | 🛸 Egypt , Damietta <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 #### 💻 &nbsp; About Me :
 <p align="center">
-  <h3> I'm Hany 21 years old, Front-End developer.</h3>
+  <h3> I'm  21 years old,Front-End developer.</h3>
 </p>
  with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand. My Expertise: • Next JS • React • JavaScript • Redux-Toolkit • Redux • Tailwind • Bootstrap • CSS • HTML
 
