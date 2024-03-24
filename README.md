@@ -9,7 +9,7 @@
   
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="React" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next" alt="js" width="40" height="40"/>&nbsp;
