@@ -30,7 +30,7 @@ I also study computer science at university. I love this department because it t
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" title="python" alt="python " width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
