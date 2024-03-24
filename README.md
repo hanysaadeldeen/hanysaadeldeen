@@ -12,7 +12,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="React" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next" alt="js" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="js" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="Redux " width="60" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" title="python" alt="python " width="40" height="40"/>&nbsp;
