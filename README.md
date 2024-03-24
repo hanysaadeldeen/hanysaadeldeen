@@ -11,7 +11,7 @@
 
 #### 💻 &nbsp; About Me :
 <p align="center">
-  <h3> I'm  21 years old,Front-End developer.</h3>
+  <h3> I'm  21 years old, Front-End developer.</h3>
 </p>
  <p> with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand</p>
  <h4>
