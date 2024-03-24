@@ -8,6 +8,12 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hany Mohamed | 💻 Frond-End Developer | 🛸 Egypt , damietta <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+
+#### 💻 &nbsp; About Me :
+Hi! I'm Hany, a React JS developer with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand. My Expertise: • Next JS • React • JavaScript • Redux-Toolkit • Redux • Tailwind • Bootstrap • CSS • HTML
+
+
+
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   
