@@ -1,8 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Hany</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
    <a href="https://www.linkedin.com/in/hany-saad-eldean-1b616625a/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" title="linkedIn" alt="linkedIn" width="40" height="40"/>&nbsp;
-      
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" title="linkedIn" alt="linkedIn" width="40" height="40"/> 
    </a>
 </div>
 
