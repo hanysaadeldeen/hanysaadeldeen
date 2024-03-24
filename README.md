@@ -15,8 +15,8 @@
 </p>
  <p> with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand</p>
  <h4>
-I also study computer science at university. I love this department because it teaches me a lot and a lot about computers and the properties of the languages ​​I work in, and this helps me improve the quality of the code I write. .
- </h4>
+I also study computer science at university. I love this department because it teaches me a lot and a lot about computers and the properties of the languages ​​I work in, and this helps me improve the quality of the code I write.
+ </h4>&nbsp; 
 
 
 
