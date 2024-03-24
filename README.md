@@ -10,7 +10,7 @@
 
 
 #### 💻 &nbsp; About Me :
-Hi! I'm Hany, a React JS developer with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand. My Expertise: • Next JS • React • JavaScript • Redux-Toolkit • Redux • Tailwind • Bootstrap • CSS • HTML
+Hi! I'm Hany 21 years old, Front-End developer  JS developer with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand. My Expertise: • Next JS • React • JavaScript • Redux-Toolkit • Redux • Tailwind • Bootstrap • CSS • HTML
 
 
 
