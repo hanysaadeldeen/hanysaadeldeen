@@ -13,9 +13,12 @@
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="React" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" title="python" alt="python " width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/88703/api.svg" title="api" alt="api " width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="vscode" alt="vscode " width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="git " width="60" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="git" alt=" vite" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="Redux " width="60" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 
 </div>
