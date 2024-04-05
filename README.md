@@ -37,6 +37,7 @@ I also study computer science at university. I love this department because it t
   <img src="https://www.svgrepo.com/show/88703/api.svg" title="api" alt="api " width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="vscode" alt="vscode " width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="vite" alt=" vite" width="40" height="40"/>&nbsp;
+   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="postMan" alt=" postMan" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="git " width="60" height="40"/>&nbsp;
 
