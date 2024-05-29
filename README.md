@@ -5,19 +5,18 @@
    </a>
 </div>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hany Mohamed | 💻 Frond-End Developer | 🛸 Egypt , Damietta <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 🙎 Hany Mohamed | 💻 Frond-End Developer | 🛸 Egypt , Damietta </h3>
 </div>
 
 
 #### 💻 &nbsp; About Me :
 <p align="center">
-  <h3> I'm  21 years old, Front-End developer.</h3>
+  <h3> I'm  21 years old a front-end developer.</h3>
 </p>
- <p> with 1.5 years of experience. My specialty is converting the design into pixel-perfect (React or Next) JS with Tailwind CSS or Bootstrap, I always write quality code, so that everyone can understand</p>
- <h4>
-I also study computer science at university. I love this department because it teaches me a lot and a lot about computers and the properties of the languages ​​I work in, and this helps me improve the quality of the code I write.
- </h4>&nbsp; 
-
+ <p>
+    I am a passionate front-end developer with 1.5 years of professional experience and a strong foundation in computer science, currently pursuing my degree at Damitta University. My enthusiasm for coding and web development drives me        to learn and explore new technologies and frameworks continually.
+ </p>
+<p>I have hands-on experience in building projects using modern web technologies, including React, Next.js, Tailwind CSS, and Bootstrap. My projects reflect my commitment to creating responsive, user-friendly, and visually appealing web applications</p>
 
 
 
