@@ -18,8 +18,7 @@
  </p>
 <p>I have hands-on experience in building projects using modern web technologies, including React, Next.js, Tailwind CSS, and Bootstrap. My projects reflect my commitment to creating responsive, user-friendly, and visually appealing web applications</p>
 
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
 
 
 #### :hammer_and_wrench: Languages and Tools :
