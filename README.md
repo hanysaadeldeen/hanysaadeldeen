@@ -21,7 +21,7 @@
 <div align="center">
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
 </div>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanysaadeldeen\&layout=compact)
 
 
 #### :hammer_and_wrench: Languages and Tools :
