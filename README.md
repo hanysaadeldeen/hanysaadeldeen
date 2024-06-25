@@ -43,3 +43,7 @@
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="git " width="60" height="40"/>&nbsp;
 
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=hanysaadeldeen&icon=5&color=0)](https://visitcount.itsvg.in)
+
