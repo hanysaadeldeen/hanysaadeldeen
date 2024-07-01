@@ -44,25 +44,13 @@
   <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="vs-code" alt="vs-code " width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="vite" alt=" vite" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  
+  <img  alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+  <img alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />&nbsp;
+  <img  alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />&nbsp;
 <br/>
-
-### Services
-
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-
-<br/>
-
-### Tools
-
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-
-  
 
 </div>
 
-<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hanysaadeldeen&icon=5&color=0)](https://visitcount.itsvg.in)
