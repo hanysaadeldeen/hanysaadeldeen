@@ -29,8 +29,8 @@
   <img src="https://cdn-icons-png.freepik.com/512/5968/5968242.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"  title="bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" title="tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" title="Material-Ui" alt="Material-Ui" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
+  <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="js" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="Next" width="40" height="40"/>&nbsp;
