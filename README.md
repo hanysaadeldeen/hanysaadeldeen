@@ -23,6 +23,7 @@
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
+### Frontend
 
    
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,12 +37,24 @@
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" title="python" alt="python " width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/88703/api.svg" title="api" alt="api " width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="vscode" alt="vscode " width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/88703/api.svg" title="API" alt="API " width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png" title="vs-code" alt="vs-code " width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="vite" alt=" vite" width="40" height="40"/>&nbsp;
-   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="postMan" alt=" postMan" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="git" alt="git " width="60" height="40"/>&nbsp;
+  <br/>
+
+### Services
+
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
+
+<br/>
+
+### Tools
+
+<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
+
+  
 
 </div>
 
