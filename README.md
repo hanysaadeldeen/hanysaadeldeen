@@ -37,7 +37,6 @@
   <img  alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="js" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" title="ts" alt="ts" width="40" height="40"/>&nbsp;
-  
   <img src="https://seeklogo.com/images/R/react-logo-65B7CD91B5-seeklogo.com.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="Next"  alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" title="python" alt="python " width="40" height="40"/>&nbsp;
