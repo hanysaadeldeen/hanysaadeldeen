@@ -4,8 +4,7 @@
 </p>
  <p>
    Possesses a strong background in computer science and is currently pursuing a degree. Enthusiastic about coding and web development with a continuous drive to learn and explore new technologies. Specializes in creating responsive, user-friendly web applications while staying updated with the latest industry best practices.
- </p>
-<p>I have hands-on experience in building projects using modern web technologies, including React, Next.js, Tailwind CSS, and Bootstrap. My projects reflect my commitment to creating responsive, user-friendly, and visually appealing web applications</p>
+ 
 
 <div>
 
