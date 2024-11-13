@@ -27,6 +27,8 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD85D?style=for-the-badge&logo=pinia&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuex&logoColor=white)
+![Pug](https://img.shields.io/badge/pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
